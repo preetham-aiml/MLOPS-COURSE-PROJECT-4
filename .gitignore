@@ -1,0 +1,10 @@
+.git
+.env
+.venv
+venv/
+logs/
+tensorboard_logs/
+MLOPS_PROJECT_4.egg-info/
+.*/
+artifacts/raw/
+artifacts/models/
